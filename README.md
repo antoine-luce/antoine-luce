@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antoine-luce-01a2ba17b">LinkedIn</a> ·
-  <a href="https://github.com/TradingMentor/TradingMentor/blob/main/docs/WORK.md">Selected work</a> ·
-  <a href="https://github.com/TradingMentor/TradingMentor/blob/main/docs/ENGINEERING.md">Engineering approach</a>
+  <a href="docs/WORK.md">Selected work</a> ·
+  <a href="docs/ENGINEERING.md">Engineering approach</a>
 </p>
 
 ---
